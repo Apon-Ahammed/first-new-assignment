@@ -1,0 +1,123 @@
+#hero {
+
+    background-image: url("/assets/Hero-bg.png");
+
+}
+
+.img {
+
+    text-align: center;
+
+}
+
+.title {
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.discription {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+
+}
+
+.btn {
+    /* color: rgb(255, 255, 255); */
+    /* font-family: Azeret Mono; */
+    /* font-size: 20px; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 8px;
+
+    color: rgb(13, 19, 33);
+
+}
+
+.heading .title {
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.heading .discription {
+
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.parent {
+    padding: 25px;
+    display: flex;
+    gap: 30pc;
+    justify-content: space-evenly;
+}
+
+.title1 {
+
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+
+.discription1 {
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+
+}
+
+.myBtn {
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn1 {
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
