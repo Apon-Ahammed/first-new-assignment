@@ -51,7 +51,7 @@
 
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 15px;
+    font-size: 10px;
     font-weight: 200;
     line-height: 28px;
     letter-spacing: 0%;
@@ -75,8 +75,9 @@
 .parent {
     padding: 25px;
     display: flex;
-    gap: 30pc;
+    gap: 30px;
     justify-content: space-evenly;
+    padding: 20px 40px 20px 40px;
 }
 
 .title1 {
@@ -121,3 +122,135 @@
     letter-spacing: 0%;
     text-align: center;
 }
+
+.heading3 .title2{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 22px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.heading3 .discription2{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+
+.iframe{
+
+    text-align: center;
+    border: 10px 12px 10px 12px;
+    height: 400px;
+    width: 100%;
+    border-radius: 16px;
+
+background: url(Jhankar);
+    
+}
+
+.heading4 .title3{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.discription3{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+
+.title4{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.discription4{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+
+}
+
+.small{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+
+.flex{
+
+    padding: 25px;
+    display: flex;
+    gap: 30px;
+    
+    justify-content: space-evenly;
+    padding: 10px 20px 10px 20px;
+}
+
+
+.color3{
+
+    
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+
+.color2{
+
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+
+}
+
+.color1{
+
+    border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+
