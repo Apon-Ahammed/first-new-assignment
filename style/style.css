@@ -1,6 +1,6 @@
 #hero {
 
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
 
 }
 
@@ -148,16 +148,16 @@ opacity: 0.7;
 
 }
 
+
 .iframe{
 
     text-align: center;
-    border: 10px 12px 10px 12px;
-    height: 400px;
-    width: 100%;
     border-radius: 16px;
-
-background: url(Jhankar);
-    
+    height: 400px;
+    width: 100px;
+    border: 10px 12px 10px 12px;
+    border-radius: 16px;
+ 
 }
 
 .heading4 .title3{
